@@ -59,8 +59,6 @@ variables, loops, conditions, data manipulation.
 
 This repository will include more Python mini-projects such as:
 
-Word Guessing Game
-
 Password Generator
 
 Rock–Paper–Scissors
@@ -78,9 +76,17 @@ File Handling Scripts
 
 🚀 How to Run These Programs
 
-python filename.py
+How to run
+• Install Python
+• Download the file
+• Open a terminal
+• Type: python filename.py
 
-Make sure Python 3 is installed.
+If you want an online run option, use one of these:
+
+• Replit
+• Google Colab
+• PythonAnywhere
 
 
 ---
